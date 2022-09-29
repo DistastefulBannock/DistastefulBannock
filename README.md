@@ -13,7 +13,7 @@
  - [X] Spring boot, one year, only the basics
  - [X] MySQL, two years
  
- <h3>Contact</h3>
+ <h3>Contact:</h3>
  Discord: DistastefulBannock#1004 (991790802705600592)
  <br/>
  Github: You're already here 😒

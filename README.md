@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Hi 👋</h1>
+<p align="center">I'm DistastefulBannock, I'm a java developer and a furry</p>
+<h3>Goals:</h3>
 
-<!--
-**DistastefulBannock/DistastefulBannock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - [ ] Learn C++
+ - [ ] Make an internal game cheat
+ - [ ] Make a DMA hardware cheat 🙏🙏
+ - [ ] Learn advanced spring boot
+<h3>Current Experience:</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - [X] Java, four years
+ - [X] JVM Bytecode, one year
+ - [X] Spring boot, one year, only the basics
+ - [X] MySQL, two years
+ 
+ <h3>Contact</h3>
+ Discord: DistastefulBannock#1004 (991790802705600592)
+ <br/>
+ Github: You're already here 😒
+ <br/>
+ Twitter: @DistastefulBnok
+ <br/>
+ Steam (CS:GO banned): https://steamcommunity.com/id/DistastefulBannock/
+ <br/>
+ Steam (CS:GO not banned): https://steamcommunity.com/id/DistastefulCock/

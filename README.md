@@ -7,7 +7,3 @@
  Github: You're already here 😒
  <br/>
  Twitter: @DistastefulBnok
- <br/>
- Steam (CS:GO banned): https://steamcommunity.com/id/DistastefulBannock/
- <br/>
- Steam (CS:GO not banned): https://steamcommunity.com/id/DistastefulCock/

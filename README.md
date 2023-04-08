@@ -1,17 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<p align="center">I'm DistastefulBannock, I'm a java developer and a furry</p>
-<h3>Goals:</h3>
-
- - [ ] Learn C++
- - [ ] Make an internal game cheat
- - [ ] Make a DMA hardware cheat 🙏🙏
- - [ ] Learn advanced spring boot
-<h3>Current Experience:</h3>
-
- - [X] Java, four years
- - [X] JVM Bytecode, one year
- - [X] Spring boot, one year, only the basics
- - [X] MySQL, two years
+<p align="center">I'm DistastefulBannock, I'm a very distasteful bannock and am hard to eat so don't try anything funny 😾</p>
  
  <h3>Contact:</h3>
  Discord: DistastefulBannock#1004 (991790802705600592)

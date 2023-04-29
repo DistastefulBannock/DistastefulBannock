@@ -5,5 +5,3 @@
  Discord: DistastefulBannock#1004 (991790802705600592)
  <br/>
  Github: You're already here 😒
- <br/>
- Twitter: @DistastefulBnok

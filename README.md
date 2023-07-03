@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<p align="center">I'm DistastefulBannock, I'm a very distasteful bannock and am hard to eat so don't try anything funny 😾</p>
+<p align="center">I'm DistastefulBannock</p>
  
  <h3>Contact:</h3>
  Telegram: https://t.me/DistastefulBannock
